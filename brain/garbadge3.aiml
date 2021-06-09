@@ -1,0 +1,2718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+    <category>
+    <pattern>  KY12</pattern>
+    <template>
+WM Russell and Sons Ltd,
+Website: www.wmrussell.co.uk
+Email: office@wmrussell.co.uk
+    </template>
+</category>
+
+<category>
+    <pattern>_   KY12</pattern>
+    <template>
+        <srai>  KY12</srai>
+    </template>
+</category>
+<category>
+    <pattern>  KY12 *</pattern>
+    <template>
+        <srai>  KY12</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  KY12 *</pattern>
+    <template>
+
+        <srai>  KY12</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>  L33</pattern>
+    <template>
+1st Choice Concrete and Skip Hire Ltd,
+Website: www.1stchoiceskiphireltd.co.uk
+Email: info@1stchoiceskiphireltd.co.uk
+    </template>
+</category>
+
+<category>
+    <pattern>_   L33</pattern>
+    <template>
+        <srai>  L33</srai>
+    </template>
+</category>
+<category>
+    <pattern>  L33 *</pattern>
+    <template>
+        <srai>  L33</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  L33 *</pattern>
+    <template>
+
+        <srai>  L33</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  L34</pattern>
+    <template>
+Environmental Waste Controls Ltd,
+Website: www.ewc.eu.com
+Email: enquiry@ewc.eu.com
+    </template>
+</category>
+
+<category>
+    <pattern>_   L34</pattern>
+    <template>
+        <srai>  L34</srai>
+    </template>
+</category>
+<category>
+    <pattern>  L34 *</pattern>
+    <template>
+        <srai>  L34</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  L34 *</pattern>
+    <template>
+
+        <srai>  L34</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  LE18</pattern>
+    <template>
+LSPS Ltd,
+Website: www.lspsskiphire.co.uk
+Email: info@lspsskiphire.co.uk
+    </template>
+</category>
+
+<category>
+    <pattern>_   LE18</pattern>
+    <template>
+        <srai>  LE18</srai>
+    </template>
+</category>
+<category>
+    <pattern>  LE18 *</pattern>
+    <template>
+        <srai>  LE18</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  LE18 *</pattern>
+    <template>
+        <srai>  LE18</srai>
+    </template>
+</category>
+
+
+
+<category>
+    <pattern>  LE19</pattern>
+    <template>
+Casepak,
+Website: www.casepak.co.uk
+Email: info@casepak.co.uk
+    </template>
+</category>
+
+<category>
+    <pattern>_   LE19</pattern>
+    <template>
+        <srai>  LE19</srai>
+    </template>
+</category>
+<category>
+    <pattern>  LE19 *</pattern>
+    <template>
+        <srai>  LE19</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  LE19 *</pattern>
+    <template>
+
+        <srai>  LE19</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  LE4</pattern>
+    <template>
+AE Burgess and Sons Ltd ,
+Website: www.aeburgess.com
+Email: info@aeburgess.com
+    </template>
+</category>
+
+<category>
+    <pattern>_   LE4</pattern>
+    <template>
+        <srai>  LE4</srai>
+    </template>
+</category>
+<category>
+    <pattern>  LE4 *</pattern>
+    <template>
+        <srai>  LE4</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  LE4 *</pattern>
+    <template>
+
+        <srai>  LE4</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  LE4</pattern>
+    <template>
+Bakers Waste ,
+Website: www.bakerswaste.co.uk
+Email: info@bakerswaste.co.uk
+    </template>
+</category>
+
+<category>
+    <pattern>_   LE4</pattern>
+    <template>
+        <srai>  LE4</srai>
+    </template>
+</category>
+<category>
+    <pattern>  LE4 *</pattern>
+    <template>
+        <srai>  LE4</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  LE4 *</pattern>
+    <template>
+
+        <srai>  LE4</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  LL36</pattern>
+    <template>
+CHC Waste Facilities Management Ltd,
+Website: www.chcwastemgt.co.uk
+Email: info@chcwastemgt.co.uk
+
+    </template>
+</category>
+
+<category>
+    <pattern>_   LL36</pattern>
+    <template>
+        <srai>  LL36</srai>
+    </template>
+</category>
+<category>
+    <pattern>  LL36 *</pattern>
+    <template>
+        <srai>  LL36</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  LL36 *</pattern>
+    <template>
+
+        <srai>  LL36</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  LS25</pattern>
+    <template>
+Mytum and Selby Waste Recycling Ltd
+Website: www.mytumwasterecycling.com
+Email: enquiries@mytumwaste.com
+
+    </template>
+</category>
+
+<category>
+    <pattern>_   LS25</pattern>
+    <template>
+        <srai>  LS25</srai>
+    </template>
+</category>
+<category>
+    <pattern>  LS25 *</pattern>
+    <template>
+        <srai>  LS25</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  LS25 *</pattern>
+    <template>
+
+        <srai>  LS25</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  LS25</pattern>
+    <template>
+WasteCare
+Website: www.wastecare.co.uk
+Email: recycling@wastecare.co.uk
+
+    </template>
+</category>
+
+<category>
+    <pattern>_   LS25</pattern>
+    <template>
+        <srai>  LS25</srai>
+    </template>
+</category>
+<category>
+    <pattern> LS25 *</pattern>
+    <template>
+        <srai> LS25</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  LS25*</pattern>
+    <template>
+
+        <srai>  LS25</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  LS9</pattern>
+    <template>
+LSS Waste Management Ltd
+Website: www.lsswaste.co.uk
+Email: enquiries@lsswaste.co.uk
+
+    </template>
+</category>
+
+<category>
+    <pattern>_   LS9</pattern>
+    <template>
+        <srai>  LS9</srai>
+    </template>
+</category>
+<category>
+    <pattern>  LS9 *</pattern>
+    <template>
+        <srai>  LS9</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  LS9 *</pattern>
+    <template>
+
+        <srai>  LS9</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  M1</pattern>
+    <template>
+Greater Manchester Combined Authoirity
+Website: greatermanchester-ca.gov.uk
+Email: gmwaste@greatermanchester-ca.gov.uk
+
+    </template>
+</category>
+
+<category>
+    <pattern>_   M1</pattern>
+    <template>
+        <srai>  M1</srai>
+    </template>
+</category>
+<category>
+    <pattern>  M1 *</pattern>
+    <template>
+        <srai>  M1</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  M1 *</pattern>
+    <template>
+
+        <srai>  M1</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  M17</pattern>
+    <template>
+Viridor Waste Management
+Website: www.viridor-waste.co.uk
+Email: mmansfield@viridor-waste.co.uk
+
+    </template>
+</category>
+
+<category>
+    <pattern>_   M17</pattern>
+    <template>
+        <srai>  M17</srai>
+    </template>
+</category>
+<category>
+    <pattern>  M17 *</pattern>
+    <template>
+        <srai>  M17</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  M17 *</pattern>
+    <template>
+
+        <srai>  M17</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  ME17</pattern>
+    <template>
+Countrystyle Recycling Ltd
+Website: www.countrystylerecycling.co.uk
+Email: info@countrystylerecycling.co.uk
+
+    </template>
+</category>
+
+<category>
+    <pattern>_   ME17</pattern>
+    <template>
+        <srai>  ME17</srai>
+    </template>
+</category>
+<category>
+    <pattern>  ME17 *</pattern>
+    <template>
+        <srai>  ME17</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  ME17 *</pattern>
+    <template>
+
+        <srai>  ME17</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>   ME2</pattern>
+    <template>
+Viridor Waste Management Ltd
+Website: www.viridor.co.uk
+
+    </template>
+</category>
+
+<category>
+    <pattern>_   ME2</pattern>
+    <template>
+        <srai>  ME2</srai>
+    </template>
+</category>
+<category>
+    <pattern>  ME2 *</pattern>
+    <template>
+        <srai>  ME2</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  ME2 *</pattern>
+    <template>
+
+        <srai>  ME2</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>   ME6</pattern>
+    <template>
+Smurfit Kappa Townsend Hook
+Website: www.smurfitkappa.co.uk
+
+    </template>
+</category>
+
+<category>
+    <pattern>_   ME6</pattern>
+    <template>
+        <srai>  ME6</srai>
+    </template>
+</category>
+<category>
+    <pattern>  ME6 *</pattern>
+    <template>
+        <srai>  ME6</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  ME6 *</pattern>
+    <template>
+
+        <srai>  ME6</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>   MK1</pattern>
+    <template>
+Shanks Group plc
+Website: www.shanksmunicipal.co.uk
+Email: marketing@shanks.co.uk
+
+    </template>
+</category>
+
+<category>
+    <pattern>_   MK1</pattern>
+    <template>
+        <srai>  MK1</srai>
+    </template>
+</category>
+<category>
+    <pattern>  MK1 *</pattern>
+    <template>
+        <srai>  MK1</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  MK1 *</pattern>
+    <template>
+
+        <srai>  MK1</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>   ML1</pattern>
+    <template>
+Viridor Waste Management
+Website: www.voestalpine.com
+
+    </template>
+</category>
+
+<category>
+    <pattern>_   ML1</pattern>
+    <template>
+        <srai>  ML1</srai>
+    </template>
+</category>
+<category>
+    <pattern>  ML1 *</pattern>
+    <template>
+        <srai>  ML1</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  ML1 *</pattern>
+    <template>
+
+        <srai>  ML1</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>   N15</pattern>
+    <template>
+O'Donovan Waste Disposal Ltd
+Website: www.odonovan.co.uk
+Email: sales@odonovan.co.uk
+
+
+    </template>
+</category>
+
+<category>
+    <pattern>_   N15</pattern>
+    <template>
+        <srai>  N15</srai>
+    </template>
+</category>
+<category>
+    <pattern>  N15 *</pattern>
+    <template>
+        <srai>  N15</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  N15 *</pattern>
+    <template>
+
+        <srai>  N15</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>   N18</pattern>
+    <template>
+Vehicle Recyclers Association
+Website: www.vrauk.org
+Email: info@vrauk.org
+
+
+    </template>
+</category>
+
+<category>
+    <pattern>_   N18</pattern>
+    <template>
+        <srai>  N18</srai>
+    </template>
+</category>
+<category>
+    <pattern>  N18 *</pattern>
+    <template>
+        <srai>  N18</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  N18 *</pattern>
+    <template>
+
+        <srai>  N18</srai>
+    </template>
+</category>
+
+
+
+<category>
+    <pattern>   N5</pattern>
+    <template>
+First Mile Recycling
+Website: www.thefirstmile.co.uk
+
+
+    </template>
+</category>
+
+<category>
+    <pattern>_   N5</pattern>
+    <template>
+        <srai>  N5</srai>
+    </template>
+</category>
+<category>
+    <pattern>  N5 *</pattern>
+    <template>
+        <srai>  N5</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  N5 *</pattern>
+    <template>
+
+        <srai>  N5</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>   NE22</pattern>
+    <template>
+Remondis JBT Ltd
+Website: www.remondis-jbt.com
+Email: info@remondis.co.uk
+
+    </template>
+</category>
+
+<category>
+    <pattern>_   NE22</pattern>
+    <template>
+        <srai>  NE22</srai>
+    </template>
+</category>
+<category>
+    <pattern>  NE22 *</pattern>
+    <template>
+        <srai>  NE22</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  NE22 *</pattern>
+    <template>
+
+        <srai>  NE22</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>   NG19</pattern>
+    <template>
+AB Waste Disposal Ltd
+Website: www.abwaste.co.uk
+Email: info@abwaste.co.uk
+
+    </template>
+</category>
+
+<category>
+    <pattern>_   NG19</pattern>
+    <template>
+        <srai>  NG19</srai>
+    </template>
+</category>
+<category>
+    <pattern>  NG19 *</pattern>
+    <template>
+        <srai>  NG19</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  NG19 *</pattern>
+    <template>
+
+        <srai>  NG19</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>   NG22</pattern>
+    <template>
+Oakwood Fuels Ltd
+Website: www.oakwoodfuels.co.uk
+
+    </template>
+</category>
+
+<category>
+    <pattern>_   NG22</pattern>
+    <template>
+        <srai>  NG22</srai>
+    </template>
+</category>
+<category>
+    <pattern>  NG22 *</pattern>
+    <template>
+        <srai>  NG22</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  NG22 *</pattern>
+    <template>
+
+        <srai>  NG22</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>   NG34</pattern>
+    <template>
+Mountain Waste Management
+Website: www.mountainskiphire.co.uk
+Email: sales@mountainskiphire.co.uk
+
+    </template>
+</category>
+
+<category>
+    <pattern>_   NG34</pattern>
+    <template>
+        <srai>  NG34</srai>
+    </template>
+</category>
+<category>
+    <pattern>  NG34 *</pattern>
+    <template>
+        <srai>  NG34</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  NG34 *</pattern>
+    <template>
+
+        <srai>  NG34</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>   NG5</pattern>
+    <template>
+Alpha Beta Technical Services Ltd
+Website: www.alpha-beta.co.uk
+
+
+    </template>
+</category>
+
+<category>
+    <pattern>_   NG5</pattern>
+    <template>
+        <srai>  NG5</srai>
+    </template>
+</category>
+<category>
+    <pattern>  NG5 *</pattern>
+    <template>
+        <srai>  NG5</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  NG5 *</pattern>
+    <template>
+
+        <srai>  NG5</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>   NG8</pattern>
+    <template>
+MSM Hygiene Ltd
+Website: www.msmhygiene.co.uk
+Email: sales@msmhygiene.co.uk
+
+
+    </template>
+</category>
+
+<category>
+    <pattern>_   NG8</pattern>
+    <template>
+        <srai>  NG8</srai>
+    </template>
+</category>
+<category>
+    <pattern>  NG8 *</pattern>
+    <template>
+        <srai>  NG8</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  NG8 *</pattern>
+    <template>
+
+        <srai>  NG8</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>   NN5</pattern>
+    <template>
+Duston Oils
+Website: www.duston-oils.co.uk
+Email: admin@dustonoils.co.uk
+
+
+
+    </template>
+</category>
+
+<category>
+    <pattern>_   NN5</pattern>
+    <template>
+        <srai>  NN5</srai>
+    </template>
+</category>
+<category>
+    <pattern>  NN5 *</pattern>
+    <template>
+        <srai>  NN5</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  NN5 *</pattern>
+    <template>
+
+        <srai>  NN5</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>   NN6</pattern>
+    <template>
+Encore Environment Ltd
+Website: www.encore-environment.com
+
+
+
+    </template>
+</category>
+
+<category>
+    <pattern>_   NN6</pattern>
+    <template>
+        <srai>  NN6</srai>
+    </template>
+</category>
+<category>
+    <pattern>  NN6 *</pattern>
+    <template>
+        <srai>  NN6</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  NN6 *</pattern>
+    <template>
+
+        <srai>  NN6</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>   NP18</pattern>
+    <template>
+GD Environmental Services Ltd
+Website: www.gd-environmental.co.uk
+Email: info@gd-environmental.co.uk
+
+
+
+    </template>
+</category>
+
+<category>
+    <pattern>_   NP18</pattern>
+    <template>
+        <srai>  NP18</srai>
+    </template>
+</category>
+<category>
+    <pattern>  NP18 *</pattern>
+    <template>
+        <srai>  NP18</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  NP18 *</pattern>
+    <template>
+
+        <srai>  NP18</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>   NR14</pattern>
+    <template>
+M Gaze and Co Ltd
+Website: www.mgaze.co.uk
+Email: localfast@localfast.co.uk
+
+
+
+    </template>
+</category>
+
+<category>
+    <pattern>_   NR14</pattern>
+    <template>
+        <srai>  NR14</srai>
+    </template>
+</category>
+<category>
+    <pattern>  NR14 *</pattern>
+    <template>
+        <srai>  NR14</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  NR14 *</pattern>
+    <template>
+
+        <srai>  NR14</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>   NR31</pattern>
+    <template>
+East Coast Waste Ltd
+Website: www.eastcoastwaste.co.uk
+Email: info@eastcoastwaste.co.uk
+
+
+
+    </template>
+</category>
+
+<category>
+    <pattern>_   NR31</pattern>
+    <template>
+        <srai>  NR31</srai>
+    </template>
+</category>
+<category>
+    <pattern>  NR31 *</pattern>
+    <template>
+        <srai>  NR31</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  NR31 *</pattern>
+    <template>
+
+        <srai>  NR31</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>   NR31</pattern>
+    <template>
+WT Skip Hire
+Website: www.wtskiphire.co.uk
+Email: info@wtskiphire.co.uk
+
+
+    </template>
+</category>
+
+<category>
+    <pattern>_   NR31</pattern>
+    <template>
+        <srai>  NR31</srai>
+    </template>
+</category>
+<category>
+    <pattern>  NR31 *</pattern>
+    <template>
+        <srai>  NR31</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  NR31 *</pattern>
+    <template>
+
+        <srai>  NR31</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  NR6 </pattern>
+    <template>
+Norse Commercial Services Ltd
+Website: www.ncsgrp.co.uk
+Email: info@ncsgrp.co.uk
+
+    </template>
+</category>
+
+<category>
+    <pattern>_   NR6</pattern>
+    <template>
+        <srai>  NR6</srai>
+    </template>
+</category>
+<category>
+    <pattern>  NR6 *</pattern>
+    <template>
+        <srai>  NR6</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  NR6 *</pattern>
+    <template>
+
+        <srai>  NR6</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  NR9 </pattern>
+    <template>
+MW White Ltd
+Website: www.mwwhite.co.uk
+Email: enquiries@mwwhite.co.uk
+
+    </template>
+</category>
+
+<category>
+    <pattern>_   NR9</pattern>
+    <template>
+        <srai>  NR9</srai>
+    </template>
+</category>
+<category>
+    <pattern>  NR9 *</pattern>
+    <template>
+        <srai>  NR9</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  NR9 *</pattern>
+    <template>
+
+        <srai>  NR9</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  OL5 </pattern>
+    <template>
+H Mullaney and Son Ltd
+
+
+    </template>
+</category>
+
+<category>
+    <pattern>_   OL5</pattern>
+    <template>
+        <srai>  OL5</srai>
+    </template>
+</category>
+<category>
+    <pattern>  OL5 *</pattern>
+    <template>
+        <srai>  OL5</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  OL5 *</pattern>
+    <template>
+
+        <srai>  OL5</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  OL5 </pattern>
+    <template>
+P Mullaney and Son Ltd
+Website: www.pmullaney.com
+Email: info@pmullaney.com
+
+
+    </template>
+</category>
+
+<category>
+    <pattern>_   OL5</pattern>
+    <template>
+        <srai>  OL5</srai>
+    </template>
+</category>
+<category>
+    <pattern>  OL5 *</pattern>
+    <template>
+        <srai>  OL5</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  OL5 *</pattern>
+    <template>
+
+        <srai>  OL5</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  OL9 </pattern>
+    <template>
+Viridor
+    </template>
+</category>
+
+<category>
+    <pattern>_   OL9</pattern>
+    <template>
+        <srai>  OL9</srai>
+    </template>
+</category>
+<category>
+    <pattern>  OL9*</pattern>
+    <template>
+        <srai>  OL9</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  OL9 *</pattern>
+    <template>
+
+        <srai>  OL9</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  OX10 </pattern>
+    <template>
+Grundon Waste Management Ltd
+Website: www.grundon.com
+Email: info@grundon.com
+    </template>
+</category>
+
+<category>
+    <pattern>_   OX10</pattern>
+    <template>
+        <srai>  OX10</srai>
+    </template>
+</category>
+<category>
+    <pattern>  OX10 *</pattern>
+    <template>
+        <srai>  OX10</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  OX10 *</pattern>
+    <template>
+
+        <srai>  OX10</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  OX16 </pattern>
+    <template>
+Grundon Waste Management Ltd
+Website: www.grundon.com
+Email: sales.banbury@grundon.com
+    </template>
+</category>
+
+<category>
+    <pattern>_   OX16</pattern>
+    <template>
+        <srai>  OX16</srai>
+    </template>
+</category>
+<category>
+    <pattern>  OX16 *</pattern>
+    <template>
+        <srai>  OX16</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  OX16 *</pattern>
+    <template>
+
+        <srai>  OX16</srai>
+    </template>
+</category>
+
+
+
+<category>
+    <pattern>  PA6 </pattern>
+    <template>
+WRC Recycling Ltd
+    </template>
+</category>
+
+<category>
+    <pattern>_   PA6</pattern>
+    <template>
+        <srai>  PA6</srai>
+    </template>
+</category>
+<category>
+    <pattern>  PA6 *</pattern>
+    <template>
+        <srai>  PA6</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  PA6 *</pattern>
+    <template>
+
+        <srai>  PA6</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  PE19 </pattern>
+    <template>
+Anaergia Ltd
+ Website: www.anaergia.com
+Email: ukoffice@anaergia.com
+    </template>
+</category>
+
+<category>
+    <pattern>_   PE19</pattern>
+    <template>
+        <srai>  PE19</srai>
+    </template>
+</category>
+<category>
+    <pattern>  PE19 *</pattern>
+    <template>
+        <srai>  PE19</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  PE19 *</pattern>
+    <template>
+
+        <srai>  PE19</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  PE28 </pattern>
+    <template>
+Woodford Recycling Services Ltd
+Website: www.woodfordrecycling.co.uk
+    </template>
+</category>
+
+<category>
+    <pattern>_   PE28</pattern>
+    <template>
+        <srai>  PE28</srai>
+    </template>
+</category>
+<category>
+    <pattern>  PE28 *</pattern>
+    <template>
+        <srai>  PE28</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  PE28 *</pattern>
+    <template>
+
+        <srai>  PE28</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  PE29 </pattern>
+    <template>
+Alpheus Environmental Ltd
+Website: www.alpheus.co.uk
+Email: enquiries@alpheus.co.uk
+    </template>
+</category>
+
+<category>
+    <pattern>_   PE29</pattern>
+    <template>
+        <srai>  PE29</srai>
+    </template>
+</category>
+<category>
+    <pattern>  PE29 *</pattern>
+    <template>
+        <srai>  PE29</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  PE29 *</pattern>
+    <template>
+
+        <srai>  PE29</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>  PE32 </pattern>
+    <template>
+Baco Compak (Norfolk) Ltd
+Website: www.baco-compak.com
+Email: sales@baco-compak.com
+   </template>
+</category>
+
+<category>
+    <pattern>_   PE32</pattern>
+    <template>
+        <srai>  PE32</srai>
+    </template>
+</category>
+<category>
+    <pattern>  PE32 *</pattern>
+    <template>
+        <srai>  PE32</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  PE32 *</pattern>
+    <template>
+
+        <srai>  PE32</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  PE33 </pattern>
+    <template>
+Glazewing Ltd
+Website: www.glazewing.co.uk
+Email: info@glazewing.co.uk
+   </template>
+</category>
+
+<category>
+    <pattern>_   PE33</pattern>
+    <template>
+        <srai>  PE33</srai>
+    </template>
+</category>
+<category>
+    <pattern>  PE33 *</pattern>
+    <template>
+        <srai>  PE33</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  PE33 *</pattern>
+    <template>
+
+        <srai>  PE33</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  PH2 </pattern>
+    <template>
+Binn Group Ltd
+Website: www.binnskips.co.uk
+Email: web-enquiries@binnskips.co.uk
+
+   </template>
+</category>
+
+<category>
+    <pattern>_   PH2</pattern>
+    <template>
+        <srai>  PH2</srai>
+    </template>
+</category>
+<category>
+    <pattern>  PH2 *</pattern>
+    <template>
+        <srai>  PH2</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  PH2 *</pattern>
+    <template>
+
+        <srai>  PH2</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  PO15 </pattern>
+    <template>
+Cleansing Service Group Ltd
+Website: www.csg.co.uk
+Email: enquiries@csg.co.uk
+
+   </template>
+</category>
+
+<category>
+    <pattern>_   PO15</pattern>
+    <template>
+        <srai>  PO15</srai>
+    </template>
+</category>
+<category>
+    <pattern>  PO15 *</pattern>
+    <template>
+        <srai>  PO15</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  PO15 *</pattern>
+    <template>
+
+        <srai>  PO15</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  RG2 </pattern>
+    <template>
+RE3
+Website: www.re3.org.uk
+
+
+   </template>
+</category>
+
+<category>
+    <pattern>_   RG2</pattern>
+    <template>
+        <srai>  RG2</srai>
+    </template>
+</category>
+<category>
+    <pattern>  RG2 *</pattern>
+    <template>
+        <srai>  RG2</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  RG2 *</pattern>
+    <template>
+
+        <srai>  RG2</srai>
+    </template>
+</category>
+
+
+<category>
+     <pattern>_  RG2 *</pattern>
+    <template>
+
+        <srai>  RG2</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  RG7 </pattern>
+    <template>
+Grundon Waste Management Ltd
+Website: www.grundon.com
+Email: orders-reading@grundon.com
+
+
+   </template>
+</category>
+
+<category>
+    <pattern>_   RG7</pattern>
+    <template>
+        <srai>  RG7</srai>
+    </template>
+</category>
+<category>
+    <pattern>  RG7 *</pattern>
+    <template>
+        <srai>  RG7</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  RG7 *</pattern>
+    <template>
+
+        <srai>  RG7</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  RH11 </pattern>
+    <template>
+Biffa Municiple Ltd
+Website: www.biffa.co.uk
+
+   </template>
+</category>
+
+<category>
+    <pattern>_   RH11</pattern>
+    <template>
+        <srai>  RH11</srai>
+    </template>
+</category>
+<category>
+    <pattern>  RH11 *</pattern>
+    <template>
+        <srai>  RH11</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  RH11 *</pattern>
+    <template>
+
+        <srai>  RH11</srai>
+    </template>
+</category>
+
+
+
+<category>
+    <pattern>  S3 </pattern>
+    <template>
+CSG
+Website: www.csg.co.uk
+Email: sheffield@csg.co.uk
+
+   </template>
+</category>
+
+<category>
+    <pattern>_   S3</pattern>
+    <template>
+        <srai>  S3</srai>
+    </template>
+</category>
+<category>
+    <pattern>  S3 *</pattern>
+    <template>
+        <srai>  S3</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  S3 *</pattern>
+    <template>
+
+        <srai>  S3</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  S43 </pattern>
+    <template>
+Hopkinson Waste
+Website: www.hopkinsonwaste.com
+Email: hopkinsonwaste@gmail.com
+
+   </template>
+</category>
+
+<category>
+    <pattern>_   S43</pattern>
+    <template>
+        <srai>  S43</srai>
+    </template>
+</category>
+<category>
+    <pattern>  S43 *</pattern>
+    <template>
+        <srai>  S43</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  S43 *</pattern>
+    <template>
+
+        <srai>  S43</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  S45 </pattern>
+    <template>
+Eco Technology Ltd
+Website: www.ecotechnology.ltd.uk
+Email: enquiries@ecotechnology.ltd.uk
+
+   </template>
+</category>
+
+<category>
+    <pattern>_   S45</pattern>
+    <template>
+        <srai>  S43</srai>
+    </template>
+</category>
+<category>
+    <pattern>  S45 *</pattern>
+    <template>
+        <srai>  S45</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  S45 *</pattern>
+    <template>
+
+        <srai>  S45</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  S6 </pattern>
+    <template>
+Hague Plant Ltd
+Website: www.hague.uk.com
+Email: enquiries@hague.uk.com
+
+   </template>
+</category>
+
+<category>
+    <pattern>_   S6</pattern>
+    <template>
+        <srai>  S6</srai>
+    </template>
+</category>
+<category>
+    <pattern>  S6 *</pattern>
+    <template>
+        <srai>  S6</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  S6 *</pattern>
+    <template>
+
+        <srai>  S6</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  SA31 </pattern>
+    <template>
+Mekatek
+
+Email: enquiries@mekatek.ltd.uk
+
+   </template>
+</category>
+
+<category>
+    <pattern>_   SA31</pattern>
+    <template>
+        <srai>  SA31</srai>
+    </template>
+</category>
+<category>
+    <pattern>  SA31 *</pattern>
+    <template>
+        <srai>  SA31</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  SA31 *</pattern>
+    <template>
+
+        <srai>  SA31</srai>
+    </template>
+</category>
+
+
+
+<category>
+    <pattern>  SA48 </pattern>
+    <template>
+LAS Recycling Ltd
+Website: www.lasrecycling.com
+Email: info@lasrecycling.com
+
+   </template>
+</category>
+
+<category>
+    <pattern>_   SA48</pattern>
+    <template>
+        <srai>  SA48</srai>
+    </template>
+</category>
+<category>
+    <pattern>  SA48 *</pattern>
+    <template>
+        <srai>  SA48</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  SA48 *</pattern>
+    <template>
+
+        <srai>  SA48</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  SG18 </pattern>
+    <template>
+FD Odell and Sons Ltd
+Website: www.fd-odell.com
+Email: info@fd-odell.com
+
+   </template>
+</category>
+
+<category>
+    <pattern>_   SG18</pattern>
+    <template>
+        <srai>  SG18</srai>
+    </template>
+</category>
+<category>
+    <pattern>  SG18 *</pattern>
+    <template>
+        <srai>  SG18</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  SG18 *</pattern>
+    <template>
+
+        <srai>  SG18</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  SL3 </pattern>
+    <template>
+Grundon Waste Management Ltd
+Website: www.grundon.com
+Email: marketing@grundon.com
+
+   </template>
+</category>
+
+<category>
+    <pattern>_   SL3</pattern>
+    <template>
+        <srai>  SL3</srai>
+    </template>
+</category>
+<category>
+    <pattern>  SL3 *</pattern>
+    <template>
+        <srai>  SL3</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  SL3 *</pattern>
+    <template>
+
+        <srai>  SL3</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  SL3 </pattern>
+    <template>
+Lanz Group Ltd
+
+   </template>
+</category>
+
+<category>
+    <pattern>_   SL3</pattern>
+    <template>
+        <srai>  SL3</srai>
+    </template>
+</category>
+<category>
+    <pattern>  SL3 *</pattern>
+    <template>
+        <srai>  SL3</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  SL3 *</pattern>
+    <template>
+
+        <srai>  SL3</srai>
+    </template>
+</category>
+
+
+
+<category>
+    <pattern>  SL6 </pattern>
+    <template>
+SUEZ Recycling and Recovery
+Website: www.sita.co.uk
+
+   </template>
+</category>
+
+<category>
+    <pattern>_   SL6</pattern>
+    <template>
+        <srai>  SL6</srai>
+    </template>
+</category>
+<category>
+    <pattern>  SL6 *</pattern>
+    <template>
+        <srai>  SL6</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  SL6 *</pattern>
+    <template>
+
+        <srai>  SL6</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  SN1 </pattern>
+    <template>
+Hills Group Ltd
+Website: www.hills-group.co.uk
+Email: waste.sales@hills-group.co.uk
+
+   </template>
+</category>
+
+<category>
+    <pattern>_   SN1</pattern>
+    <template>
+        <srai>  SN1</srai>
+    </template>
+</category>
+<category>
+    <pattern>  SN1 *</pattern>
+    <template>
+        <srai>  SN1</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  SN1 *</pattern>
+    <template>
+
+        <srai>  SN1</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  SN10 </pattern>
+    <template>
+Grist Environmental Ltd
+Website: www.gristgroup.co.uk
+Email: sales@devizesreclamation.com
+
+   </template>
+</category>
+
+<category>
+    <pattern>_   SN10</pattern>
+    <template>
+        <srai>  SN10</srai>
+    </template>
+</category>
+<category>
+    <pattern>  SN10 *</pattern>
+    <template>
+        <srai>  SN10</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  SN10 *</pattern>
+    <template>
+
+        <srai>  SN10</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  ST6 </pattern>
+    <template>
+H Brown and Son Recycling Ltd
+Website: www.brownrecycling.co.uk
+Email: info@brownrecycling.co.uk
+
+   </template>
+</category>
+
+<category>
+    <pattern>_   ST6</pattern>
+    <template>
+        <srai>  ST6</srai>
+    </template>
+</category>
+<category>
+    <pattern>  ST6 *</pattern>
+    <template>
+        <srai>  ST6</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  ST6 *</pattern>
+    <template>
+
+        <srai>  ST6</srai>
+    </template>
+</category>
+
+
+
+<category>
+    <pattern>  SW17 </pattern>
+    <template>
+Cappagh Public Works Ltd
+Website: www.cappagh.co.uk
+
+
+   </template>
+</category>
+
+<category>
+    <pattern>_   SW17</pattern>
+    <template>
+        <srai>  SW17</srai>
+    </template>
+</category>
+<category>
+    <pattern>  SW17 *</pattern>
+    <template>
+        <srai>  SW17</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  SW17 *</pattern>
+    <template>
+
+        <srai>  SW17</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>   SY10 </pattern>
+    <template>
+Oswestry Waste Paper
+Website: www.oswestrywastepaper.co.uk
+Email: info@oswestrywastepaper.co.uk
+
+
+   </template>
+</category>
+
+<category>
+    <pattern>_   SY10</pattern>
+    <template>
+        <srai>  SY10</srai>
+    </template>
+</category>
+<category>
+    <pattern>  SY10 *</pattern>
+    <template>
+        <srai>  SY10</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  SY10 *</pattern>
+    <template>
+
+        <srai>  SY10</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>   SY4 </pattern>
+    <template>
+Emerald Trading Waste Solutions Ltd
+Website: www.emeraldtrading.org.uk
+Email: info@emeraldtrading.org.uk
+
+
+   </template>
+</category>
+
+<category>
+    <pattern>_   SY4</pattern>
+    <template>
+        <srai>  SY4</srai>
+    </template>
+</category>
+<category>
+    <pattern>  SY4 *</pattern>
+    <template>
+        <srai>  SY4</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  SY4 *</pattern>
+    <template>
+
+        <srai>  SY4</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>   TA1 </pattern>
+    <template>
+Viridor Waste Management
+Website: www.viridor-waste.co.uk
+Email: enquiries@viridor.co.uk
+
+
+   </template>
+</category>
+
+<category>
+    <pattern>_   TA1</pattern>
+    <template>
+        <srai>  TA1</srai>
+    </template>
+</category>
+<category>
+    <pattern>  TA1 *</pattern>
+    <template>
+        <srai>  TA1</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  TA1 *</pattern>
+    <template>
+
+        <srai>  TA1</srai>
+    </template>
+</category>
+
+
+
+<category>
+    <pattern>    TA6</pattern>
+    <template>
+Brian Perry Waste Paper Ltd
+Website: www.perrys-recycling.co.uk
+Email: bridgwater@perrys-recyling.co.uk
+
+
+
+   </template>
+</category>
+
+<category>
+    <pattern>_   TA6</pattern>
+    <template>
+        <srai>  TA6</srai>
+    </template>
+</category>
+<category>
+    <pattern>  TA6 *</pattern>
+    <template>
+        <srai>  TA6</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  TA6 *</pattern>
+    <template>
+
+        <srai>  TA6</srai>
+    </template>
+</category>
+
+
+
+<category>
+    <pattern>    TF3</pattern>
+    <template>
+Reconomy
+Website: www.reconomy.com
+Email: enquiries@reconomy.com
+
+
+   </template>
+</category>
+
+<category>
+    <pattern>_   TF3</pattern>
+    <template>
+        <srai>  TF3</srai>
+    </template>
+</category>
+<category>
+    <pattern>  TF3 *</pattern>
+    <template>
+        <srai>  TF3</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  TF3 *</pattern>
+    <template>
+
+        <srai>  TF3</srai>
+    </template>
+</category>
+
+
+
+<category>
+    <pattern>     TN22
+</pattern>
+    <template>
+Allied Waste Management Ltd
+Website: www.alliedwastemanagement.co.uk
+Email: info@allied-waste.co.uk
+
+
+   </template>
+</category>
+
+<category>
+    <pattern>_    TN22</pattern>
+    <template>
+        <srai>  TN22</srai>
+    </template>
+</category>
+<category>
+    <pattern>  TN22 *</pattern>
+    <template>
+        <srai>  TN22</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  TN22 *</pattern>
+    <template>
+
+        <srai>  TN22</srai>
+    </template>
+</category>
+
+
+
+<category>
+    <pattern>     TR3 </pattern>
+    <template>
+Pellows WDS Ltd
+Website: www.pellows.co.uk
+Email: hello@pellows.co.uk
+
+
+   </template>
+</category>
+
+<category>
+    <pattern>_    TR3</pattern>
+    <template>
+        <srai>  TR3</srai>
+    </template>
+</category>
+<category>
+    <pattern>  TR3 *</pattern>
+    <template>
+        <srai>  TR3</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  TR3 *</pattern>
+    <template>
+
+        <srai>  TR3</srai>
+    </template>
+</category>
+
+
+
+<category>
+    <pattern>      TS23</pattern>
+    <template>
+Suez Recycling and Recovery UK Ltd
+Website: www.sita.co.uk
+
+
+   </template>
+</category>
+
+<category>
+    <pattern>_    TS23</pattern>
+    <template>
+        <srai>  TS23</srai>
+    </template>
+</category>
+<category>
+    <pattern>  TS23 *</pattern>
+    <template>
+        <srai>  TS23</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  TS23 *</pattern>
+    <template>
+
+        <srai>  TS23</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>       UB9</pattern>
+    <template>
+BFA Recycling Ltd
+Website: www.bfarecycling.co.uk
+Email: mail@bfarecycling.co.uk
+
+
+   </template>
+</category>
+
+<category>
+    <pattern>_    UB9</pattern>
+    <template>
+        <srai>  UB9</srai>
+    </template>
+</category>
+<category>
+    <pattern>  UB9 *</pattern>
+    <template>
+        <srai>  UB9</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  UB9 *</pattern>
+    <template>
+
+        <srai>  UB9</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>        WA11</pattern>
+    <template>
+Coral Products plc
+Website: www.coralproducts.com
+Email: mail@coralproducts.com
+
+
+
+   </template>
+</category>
+
+<category>
+    <pattern>_    WA11</pattern>
+    <template>
+        <srai>  WA11</srai>
+    </template>
+</category>
+<category>
+    <pattern>  WA11 *</pattern>
+    <template>
+        <srai>  WA11</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  WA11 *</pattern>
+    <template>
+
+        <srai>  WA11</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>        WA4</pattern>
+    <template>
+Blue Spares Ltd
+Website: www.blue-group.com
+Email: sales@bluegroup.co.uk
+
+
+   </template>
+</category>
+
+<category>
+    <pattern>_    WA4</pattern>
+    <template>
+        <srai>  WA4</srai>
+    </template>
+</category>
+<category>
+    <pattern>  WA4 *</pattern>
+    <template>
+        <srai>  WA4</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  WA4 *</pattern>
+    <template>
+
+        <srai>  WA4</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>        WF11</pattern>
+    <template>
+Acumen Waste Services Ltd
+Website: www.acumenwaste.co.uk
+Email: info@acumenwaste.co.uk
+
+
+   </template>
+</category>
+
+<category>
+    <pattern>_    WF11</pattern>
+    <template>
+        <srai>  WF11</srai>
+    </template>
+</category>
+<category>
+    <pattern>  WF11 *</pattern>
+    <template>
+        <srai>  WF11</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  WF11 *</pattern>
+    <template>
+
+        <srai>  WF11</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>        WF12</pattern>
+    <template>
+Blackburns Waste Disposal
+Email: karen@cjblackburn.co.uk
+
+
+   </template>
+</category>
+
+<category>
+    <pattern>_    WF12</pattern>
+    <template>
+        <srai>  WF12</srai>
+    </template>
+</category>
+<category>
+    <pattern>  WF12 *</pattern>
+    <template>
+        <srai>  WF12</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  WF12 *</pattern>
+    <template>
+
+        <srai>  WF12</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>        WN3</pattern>
+    <template>
+Bithells Waste Disposal Ltd
+Website: www.bithells.co.uk
+Email: enquiries@bithells.co.uk
+
+
+   </template>
+</category>
+
+<category>
+    <pattern>_    WN3</pattern>
+    <template>
+        <srai>  WN3</srai>
+    </template>
+</category>
+<category>
+    <pattern>  WN3 *</pattern>
+    <template>
+        <srai>  WN3</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  WN3 *</pattern>
+    <template>
+
+        <srai>  WN3</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>        WR9</pattern>
+    <template>
+Egbert H Taylor and Co Ltd
+Website: www.egberttaylorgroup.com
+
+
+   </template>
+</category>
+
+<category>
+    <pattern>_    WR9</pattern>
+    <template>
+        <srai>  WR9</srai>
+    </template>
+</category>
+<category>
+    <pattern>  WR9 *</pattern>
+    <template>
+        <srai>  WR9</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_ WR9 *</pattern>
+    <template>
+
+        <srai>  WR9</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>        WS13</pattern>
+    <template>
+Jones Waste Services
+Website: www.joneswasteservices.co.uk
+
+
+   </template>
+</category>
+
+<category>
+    <pattern>_    WS13</pattern>
+    <template>
+        <srai>  WS13</srai>
+    </template>
+</category>
+<category>
+    <pattern>  WS13 *</pattern>
+    <template>
+        <srai>  WS13</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_ WS13 *</pattern>
+    <template>
+
+        <srai>  WS13</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>        WS8</pattern>
+    <template>
+Environmental Resource Group Ltd
+Website: www.environmentalresourcegroup.com
+Email: sales@environmentalresourcegroup.com
+
+
+   </template>
+</category>
+
+<category>
+    <pattern>_    WS8</pattern>
+    <template>
+        <srai>  WS8</srai>
+    </template>
+</category>
+<category>
+    <pattern>  WS8 *</pattern>
+    <template>
+        <srai>  WS8</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_ WS8 *</pattern>
+    <template>
+
+        <srai>  WS8</srai>
+    </template>
+</category>
+
+
+
+<category>
+    <pattern>        WV10</pattern>
+    <template>
+Veolia
+Website: www.veolia.co.uk
+
+
+   </template>
+</category>
+
+<category>
+    <pattern>_    WV10</pattern>
+    <template>
+        <srai>  WV10</srai>
+    </template>
+</category>
+<category>
+    <pattern>  WV10 *</pattern>
+    <template>
+        <srai>  WV10</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_ WV10 *</pattern>
+    <template>
+
+        <srai>  WV10</srai>
+    </template>
+</category>
+
+
+
+<category>
+    <pattern>        SG</pattern>
+    <template>
+Alchemy Metals Ltd
+Website: www.alchemymetals.com
+Email: enquiries@alchemymetals.co.uk
+
+
+
+   </template>
+</category>
+
+<category>
+    <pattern>_    SG</pattern>
+    <template>
+        <srai>  SG </srai>
+    </template>
+</category>
+<category>
+    <pattern>  SG *</pattern>
+    <template>
+        <srai>  SG </srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_ SG *</pattern>
+    <template>
+
+        <srai>  SG </srai>
+    </template>
+</category>
+
+
+
+
+
+
+</aiml>

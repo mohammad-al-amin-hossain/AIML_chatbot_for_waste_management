@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<category>
+        <pattern>L33</pattern>
+        <template> 1. 1st Choice Concrete and Skip Hire Ltd. Liverpool, L33 7XB for --- types of garbage,
+                Email: info@1stchoiceskiphireltd.co.uk
+                website links:
+                http://www.1stchoiceskiphireltd.co.uk
+
+        </template>
+    </category>
+
+    <category>
+        <pattern>_ L33</pattern>
+        <template>
+            <srai>L33</srai>
+        </template>
+    </category>
+    <category>
+        <pattern>L33 *</pattern>
+        <template>
+            <srai>L33</srai>
+        </template>
+    </category>
+
+    <category>
+         <pattern>_ L33 *</pattern>
+        <template>
+            <srai>L33</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>NG19</pattern>
+        <template>1. AB Waste Disposal Ltd. Mansfield, NG19 9BG for --- types of garbage, Email: info@abwaste.co.uk,
+            website links:
+            www.abwaste.co.uk
+        </template>
+    </category>
+
+    <category>
+        <pattern>_ NG19</pattern>
+        <template>
+            <srai>NG19</srai>
+        </template>
+    </category>
+    <category>
+        <pattern>NG19 *</pattern>
+        <template>
+            <srai>NG19</srai>
+        </template>
+    </category>
+
+    <category>
+         <pattern>_ NG19 *</pattern>
+        <template>
+            <srai>NG19</srai>
+        </template>
+    </category>
+
+    <category>
+    <pattern> AB12</pattern>
+    <template>
+1. Biffa Waste Services Ltd, Aberdeen, AB12 3BQ	Website: www.biffa.co.uk
+2. EIS Waste Services	Aberdeen, AB12 4LP	Website: www.eiswaste.com Email: info@eiswaste.co.uk
+    </template>
+</category>
+
+<category>
+    <pattern>_  AB12</pattern>
+    <template>
+        <srai> AB12</srai>
+    </template>
+</category>
+<category>
+    <pattern> AB12*</pattern>
+    <template>
+        <srai> AB12</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  AB12*</pattern>
+    <template>
+        <srai> AB12</srai>
+    </template>
+</category>
+
+
+
+<category>
+    <pattern> B66</pattern>
+    <template>
+EMR Smethwick, Smethwick, B66 2PG Website: www.uk.emrgroup.com Email: ukinfo@emrgroup.com
+
+    </template>
+</category>
+
+<category>
+    <pattern>_  B66</pattern>
+    <template>
+        <srai> B66</srai>
+    </template>
+</category>
+<category>
+    <pattern> B66*</pattern>
+    <template>
+        <srai> B66</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  B66*</pattern>
+    <template>
+        <srai> B66</srai>
+    </template>
+</category>
+
+
+
+<category>
+    <pattern>  B69</pattern>
+    <template>
+Voestalpine High Performance Metals UK Ltd, Oldbury, B69 2BN Website: www.uk.emrgroup.com+E4  Email: ukinfo@emrgroup.com
+
+    </template>
+</category>
+
+<category>
+    <pattern>_  B69</pattern>
+    <template>
+        <srai> B69</srai>
+    </template>
+</category>
+<category>
+    <pattern> B69*</pattern>
+    <template>
+        <srai> B69</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  B69*</pattern>
+    <template>
+        <srai> B69</srai>
+    </template>
+</category>
+<category>
+    <pattern> B66</pattern>
+    <template>
+EMR Smethwick, Smethwick, B66 2PG Website: www.uk.emrgroup.com Email: ukinfo@emrgroup.com
+
+    </template>
+</category>
+
+<category>
+    <pattern>_  B66</pattern>
+    <template>
+        <srai> B66</srai>
+    </template>
+</category>
+<category>
+    <pattern> B66*</pattern>
+    <template>
+        <srai> B66</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  B66*</pattern>
+    <template>
+        <srai> B66</srai>
+    </template>
+</category>
+
+
+
+<category>
+    <pattern> B7 </pattern>
+    <template>
+1. Recycling Management Ltd, Birmingham, B7 5RG, Website: www.recyclingmanagement.com
+2. Weir Waste Ltd, Birmingham, B7 4TS
+
+    </template>
+</category>
+
+<category>
+    <pattern>_  B7</pattern>
+    <template>
+        <srai> B7</srai>
+    </template>
+</category>
+<category>
+    <pattern> B7*</pattern>
+    <template>
+        <srai> B7</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  B7*</pattern>
+    <template>
+        <srai> B7</srai>
+    </template>
+</category>
+
+<category>
+    <pattern> B78</pattern>
+    <template>
+Smurfit Kappa
+    </template>
+</category>
+
+<category>
+    <pattern>_  B78</pattern>
+    <template>
+        <srai> B78</srai>
+    </template>
+</category>
+<category>
+    <pattern> B78*</pattern>
+    <template>
+        <srai> B78</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  B78*</pattern>
+    <template>
+        <srai> B78</srai>
+    </template>
+</category>
+
+<category>
+    <pattern> BB1</pattern>
+    <template>
+Smurfit Kappa Recycling
+    </template>
+</category>
+
+
+
+<category>
+    <pattern>_ BB1</pattern>
+    <template>
+        <srai> BB1</srai>
+    </template>
+</category>
+<category>
+    <pattern> BB1*</pattern>
+    <template>
+        <srai> BB1</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  BB1*</pattern>
+    <template>
+        <srai> BB1</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern> BB3</pattern>
+    <template>
+Frank Barnes (Darwen) Ltd, Darwen, BB3 2PN Website: www.frank-barnes.co.uk
+Email: info@frank-barnes.co.uk
+
+    </template>
+</category>
+
+<category>
+    <pattern>_  BB3</pattern>
+    <template>
+        <srai> BB3</srai>
+    </template>
+</category>
+<category>
+    <pattern> BB3*</pattern>
+    <template>
+        <srai> BB3</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  BB3*</pattern>
+    <template>
+        <srai> BB3</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern> BB9</pattern>
+    <template>
+Norpol Recycling Ltd, Nelson, BB9 7YG	Website: www.norpolrecycling.com
+
+    </template>
+</category>
+
+<category>
+    <pattern>_  BB9</pattern>
+    <template>
+        <srai> BB9</srai>
+    </template>
+</category>
+<category>
+    <pattern> BB9*</pattern>
+    <template>
+        <srai> BB9</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  BB9*</pattern>
+    <template>
+        <srai> BB9</srai>
+    </template>
+</category>
+
+<category>
+    <pattern> BD4 </pattern>
+    <template>
+Bradford Waste Traders Ltd, Bradford, BD4 8SJ	Website: bradfordwastetraders.co.uk
+Email: contact@bradfordwastetraders.co.uk
+
+    </template>
+</category>
+
+<category>
+    <pattern>_  BD4 </pattern>
+    <template>
+        <srai> BD4 </srai>
+    </template>
+</category>
+<category>
+    <pattern> BD4 *</pattern>
+    <template>
+        <srai> BD4 </srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  BD4 *</pattern>
+    <template>
+        <srai> BD4 </srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern> BL3</pattern>
+    <template>
+1. Viridor Transfer Station Ltd, Bolton, BL3 2NH  Website: www.viridor.co.uk
+2. Viridor Waste Ltd, Bolton, Bolton, BL3 3WW	Website: www.viridor.co.uk Email: stephen.jenkinson@gmwaste.co.uk
+    </template>
+</category>
+
+<category>
+    <pattern>_  BL3</pattern>
+    <template>
+        <srai> BL3</srai>
+    </template>
+</category>
+<category>
+    <pattern> BL3*</pattern>
+    <template>
+        <srai> BL3</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  BL3*</pattern>
+    <template>
+        <srai> BL3</srai>
+    </template>
+</category>
+
+<category>
+    <pattern> BN43</pattern>
+    <template>
+Zystur Ltd, Bolton, Shoreham-By-Sea, BN43 5EG Website: www.evrs-zero-bury.co.uk Email: office@evrs.co.uk
+
+    </template>
+</category>
+
+<category>
+    <pattern>_  BN43</pattern>
+    <template>
+        <srai> BN43</srai>
+    </template>
+</category>
+<category>
+    <pattern> BN43*</pattern>
+    <template>
+        <srai> BN43</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  BN43*</pattern>
+    <template>
+        <srai> BN43</srai>
+    </template>
+</category>
+
+
+
+<category>
+    <pattern> BN8</pattern>
+    <template>
+MDJ Light Brothers Ltd, Lewes, BN8 6JN Website: www.lightbros.co.uk Email: info@lightbros.co.uk
+
+    </template>
+</category>
+
+<category>
+    <pattern>_  BN8</pattern>
+    <template>
+        <srai> BN8</srai>
+    </template>
+</category>
+<category>
+    <pattern> BN8*</pattern>
+    <template>
+        <srai> BN8</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  BN8*</pattern>
+    <template>
+        <srai> BN8</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern> BS23</pattern>
+    <template>
+Towens of Weston Ltd, Weston-Super-Mare, BS23 3UU Website: www.towens.co.uk
+
+    </template>
+</category>
+
+<category>
+    <pattern>_  BS23</pattern>
+    <template>
+        <srai> BS23</srai>
+    </template>
+</category>
+<category>
+    <pattern> BS23*</pattern>
+    <template>
+        <srai> BS23</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  BS23*</pattern>
+    <template>
+        <srai> BS23</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern> BS34</pattern>
+    <template>
+Viridor Waste Management (Bristol) Ltd, Bristol, BS34 7QG Website: www.viridor.co.uk
+
+    </template>
+</category>
+
+<category>
+    <pattern>_  BS34</pattern>
+    <template>
+        <srai> BS34</srai>
+    </template>
+</category>
+<category>
+    <pattern> BS34*</pattern>
+    <template>
+        <srai> BS34</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  BS34*</pattern>
+    <template>
+        <srai> BS34</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern> BS37</pattern>
+    <template>
+Suez Recycling and Recovery UK Ltd, Bristol, BS37 5ND
+
+    </template>
+</category>
+
+<category>
+    <pattern>_  BS37</pattern>
+    <template>
+        <srai> BS37</srai>
+    </template>
+</category>
+<category>
+    <pattern> BS37*</pattern>
+    <template>
+        <srai> BS37</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  BS37*</pattern>
+    <template>
+        <srai> BS37</srai>
+    </template>
+</category>
+
+<category>
+    <pattern> BT14</pattern>
+    <template>
+Cole Waste Paper Merchant, Belfast, BT14 8JP
+
+    </template>
+</category>
+
+<category>
+    <pattern>_  BT14</pattern>
+    <template>
+        <srai> BT14</srai>
+    </template>
+</category>
+<category>
+    <pattern> BT14*</pattern>
+    <template>
+        <srai> BT14</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  BT14*</pattern>
+    <template>
+        <srai> BT14</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern> BT30</pattern>
+    <template>
+Enva Northern Ireland Ltd, Downpatrick, BT30 6LJ, BT14 8JP Website: www.enva.com Email: salesni@enva.com
+
+    </template>
+</category>
+
+<category>
+    <pattern>_  BT30</pattern>
+    <template>
+        <srai> BT30</srai>
+    </template>
+</category>
+<category>
+    <pattern> BT30*</pattern>
+    <template>
+        <srai> BT30</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  BT30*</pattern>
+    <template>
+        <srai> BT30</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern> BT34</pattern>
+    <template>
+Macwaste Ltd, Newry, BT34 3FN, BT14 8JP Website: www.macwaste.com
+
+    </template>
+</category>
+
+<category>
+    <pattern>_  BT34</pattern>
+    <template>
+        <srai> BT34</srai>
+    </template>
+</category>
+<category>
+    <pattern> BT34*</pattern>
+    <template>
+        <srai> BT34</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  BT34*</pattern>
+    <template>
+        <srai> BT34</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern> BT35</pattern>
+    <template>
+McAllister Bros Ltd, Newry, BT35 8QJ,  Website: www.mcallistergroup.com
+
+    </template>
+</category>
+
+<category>
+    <pattern>_  BT35</pattern>
+    <template>
+        <srai> BT35</srai>
+    </template>
+</category>
+<category>
+    <pattern> BT35*</pattern>
+    <template>
+        <srai> BT35</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  BT35*</pattern>
+    <template>
+        <srai> BT35</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern> BT36</pattern>
+    <template>
+T-Met Ltd, Newtownabbey, BT36 4TY,  Website: t-met.co.uk
+
+    </template>
+</category>
+
+<category>
+    <pattern>_  BT36</pattern>
+    <template>
+        <srai> BT36</srai>
+    </template>
+</category>
+<category>
+    <pattern> BT36*</pattern>
+    <template>
+        <srai> BT36</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  BT36*</pattern>
+    <template>
+        <srai> BT36</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern> CA1 </pattern>
+    <template>
+Cumbria Waste Management Ltd, Carlisle, CA1 2ST,  Website: www.cumbriawaste.co.uk Email: mike.bareham@cumbriawaste.co.uk
+    </template>
+</category>
+
+<category>
+    <pattern>_  CA1 </pattern>
+    <template>
+        <srai> CA1 </srai>
+    </template>
+</category>
+<category>
+    <pattern> CA1 *</pattern>
+    <template>
+        <srai> CA1 </srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  CA1 *</pattern>
+    <template>
+        <srai> CA1 </srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern> CA3</pattern>
+    <template>
+Cumbria Waste Recycling, Carlisle, CA3 9QJ,  Website: www.cumbriawaste.co.uk Email: mike.bareham@cumbriawaste.co.uk
+    </template>
+</category>
+
+<category>
+    <pattern>_  CA3</pattern>
+    <template>
+        <srai> CA3</srai>
+    </template>
+</category>
+<category>
+    <pattern> CA3*</pattern>
+    <template>
+        <srai> CA3</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_  CA3*</pattern>
+    <template>
+        <srai> CA3</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  CA7</pattern>
+    <template>
+DA Harrison, Wigton, CA7 0AE,  Email: enquiries@daharrison.co.uk
+    </template>
+</category>
+
+<category>
+    <pattern>_   CA7</pattern>
+    <template>
+        <srai>  CA7</srai>
+    </template>
+</category>
+<category>
+    <pattern>  CA7*</pattern>
+    <template>
+        <srai>  CA7</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_   CA7*</pattern>
+    <template>
+        <srai>  CA7</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>  CB25</pattern>
+    <template>
+Amey Waste Treatment, Cambridge, CB25 9PQ,  Website: www.wasteservices.amey.co.uk Email: wasteenquiries@amey.co.uk
+    </template>
+</category>
+
+<category>
+    <pattern>_   CB25</pattern>
+    <template>
+        <srai>  CB25</srai>
+    </template>
+</category>
+<category>
+    <pattern>  CB25*</pattern>
+    <template>
+        <srai>  CB25</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_   CB25*</pattern>
+    <template>
+        <srai>  CB25</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  CF10</pattern>
+    <template>
+Biffa Waste Services Ltd, Cardiff, CF10 4TS,  Website: www.biffa.co.uk
+    </template>
+</category>
+
+<category>
+    <pattern>_   CF10</pattern>
+    <template>
+        <srai>  CF10</srai>
+    </template>
+</category>
+<category>
+    <pattern>  CF10*</pattern>
+    <template>
+        <srai>  CF10</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_   CF10*</pattern>
+    <template>
+        <srai>  CF10</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  CF24 </pattern>
+    <template>
+Forward Waste Management Ltd, Caerdydd, CF24 5EE,  Website: www.forwardwastemanagement.co.uk
+    </template>
+</category>
+
+<category>
+    <pattern>_   CF24 </pattern>
+    <template>
+        <srai>  CF24 </srai>
+    </template>
+</category>
+<category>
+    <pattern>  CF24 *</pattern>
+    <template>
+        <srai>  CF24 </srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_   CF24 *</pattern>
+    <template>
+        <srai>  CF24 </srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>  CF37</pattern>
+    <template>
+Egan Waste Services, Pontypridd, CF37 5TA,  Website: www.eganwasteservices.co.uk Email: enquiries@eganwasteservices.co.uk
+    </template>
+</category>
+
+<category>
+    <pattern>_   CF37</pattern>
+    <template>
+        <srai>  CF37</srai>
+    </template>
+</category>
+<category>
+    <pattern>  CF37*</pattern>
+    <template>
+        <srai>  CF37</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_   CF37*</pattern>
+    <template>
+        <srai>CF37</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>CF48</pattern>
+    <template>
+Biffa Waste Services Ltd, Merthyr Tydfil, CF48 4AB,  Website: www.biffa.co.uk
+    </template>
+</category>
+
+<category>
+    <pattern>_CF48</pattern>
+    <template>
+        <srai>CF48</srai>
+    </template>
+</category>
+<category>
+    <pattern>  CF48*</pattern>
+    <template>
+        <srai>CF48</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_CF48*</pattern>
+    <template>
+            <srai>CF48</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>  CF82</pattern>
+    <template>
+Biffa Caephilly, Hengoed, CF82 7TR,  Website: www.biffa.co.uk
+    </template>
+</category>
+
+<category>
+    <pattern>_   CF82</pattern>
+    <template>
+        <srai>  CF82</srai>
+    </template>
+</category>
+<category>
+    <pattern>  CF82*</pattern>
+    <template>
+        <srai>  CF82</srai>
+    </template>
+</category>
+
+<category>
+     <pattern>_   CF82*</pattern>
+    <template>
+
+        <srai>  CF82</srai>
+    </template>
+</category>
+</aiml>

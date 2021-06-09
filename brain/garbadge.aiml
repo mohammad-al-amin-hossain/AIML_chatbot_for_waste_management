@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+    <category>
+        <pattern>I AM *</pattern>
+        <template>
+            <think> <set name="name"></set> </think><star/> is a nice name.
+            Let me help you to find a near by waste management company.
+            Now may I know your postcode please?
+        </template>
+    </category>
+
+    <category>
+        <pattern>MY NAME IS *</pattern>
+        <template>
+            <think><set name="name"></set></think><star/> is a nice name.
+            Let me help you to find a near by waste management company.
+            Now may I know your postcode please?
+        </template>
+    </category>
+
+    <category>
+        <pattern>YOU CAN CALL ME *</pattern>
+        <template>
+            <think><set name="name"></set></think><star/> is a nice name.
+            Let me help you to find a near by waste management company.
+            Now may I know your postcode please?
+        </template>
+    </category>
+   <category>
+        <pattern>IT IS *</pattern>
+        <template>
+            <think><set name="name"></set></think><star/> is a nice name.
+            Let me help you to find a near by waste management company.
+            Now may I know your postcode please?
+        </template>
+    </category>
+
+    <category>
+        <pattern>THANK YOU</pattern>
+        <template>
+            Welcome. Do you want to know which colored bags used for which types of waste
+        </template>
+    </category>
+
+    <category>
+         <pattern>THANKS</pattern>
+        <template>
+            Welcome. Do you want to know which colored bags used for which types of waste
+        </template>
+    </category>
+
+    <category>
+      <pattern>YES</pattern>
+      <that>WELCOME DO YOU WANT TO KNOW WHICH COLORED BAGS USED FOR WHICH TYPES OF WASTE</that>
+      <template>Orange Bags – for Infectious Clinical Waste,
+          Green Bags - for turn your organic waste into compost,
+          Yellow bags with black stripes – continence pads and other waste
+          produced from human hygiene (urine, faeces, sputum, tears, nasal secretions, vomit),
+          Black bin - for general house hold non-recyclable waste,
+
+      </template>
+   </category>
+
+   <category>
+      <pattern>NO</pattern>
+      <that>WELCOME DO YOU WANT TO KNOW WHICH COLORED BAGS USED FOR WHICH TYPES OF WASTE</that>
+      <template>Ok! But if you have any questions regarding waste management system you can ask me I'll try to help you.</template>
+   </category>
+
+
+    <category>
+        <pattern>WHAT IS WASTE MANAGEMENT</pattern>
+        <template>
+            Waste management refers to the way in which you manage and dispose of your waste.
+            There are many different kinds of waste management, including:
+Organization,
+Collection,
+Transportation,
+Monitoring,
+Disposal/recycling.
+
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHY IS WASTE MANAGEMENT IMPORTANT </pattern>
+        <template>
+            Landfill sites are running out of space.
+            Waste does not decompose quickly. For example, plastic bottles can take up to
+            450 years to decompose. As a result, 12 billion tonnes of plastic waste will sit in landfills by 2050.
+Sustainable waste management also ensures that you follow government legislations and waste management laws.
+            For example, companies in the UK are bound by the Environmental Protection Act 1990.
+
+        </template>
+    </category>
+
+
+    <category>
+        <pattern>WHAT ARE THE BENEFITS OF WASTE MANAGEMENT </pattern>
+        <template>
+            Better Environment,
+            Reduces Pollution,
+            Conserves Energy,
+            Creates Employment,
+            Helps Make a Difference.
+
+        </template>
+    </category>
+    <category>
+        <pattern>WHAT VARIOUS METHODS OF WASTE DISPOSAL </pattern>
+        <template>
+            Landfills,
+Throwing daily waste/garbage in the landfills is the most popularly used method of waste disposal used today. This process of waste disposal focuses attention on burying the waste in the land. Landfills are commonly found in developing countries.
+Incineration/Combustion,
+Incineration or combustion is a type disposal method in which municipal solid wastes are burned at high temperatures. The process eventually converts them into residues and gaseous products.
+Recovery and Recycling,
+Resource recovery is the process of taking useful discarded items for a specific next use. These discarded items are then processed to extract or recover materials and resources or convert them to energy in the form of useable heat, electricity or fuel.
+Plasma gasification,
+Plasma gasification is another form of waste management. Plasma is primarily an electrically charged or highly ionized gas. Lighting is one type of plasma that produces temperatures that exceed 12,600 °F.
+Composting,
+Composting is an easy and natural bio-degradation process that takes organic wastes i.e. remains of plants and garden and kitchen waste and turns into nutrient-rich food for your plants.
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHAT ARE MAJOR FOOD WASTE FACTS</pattern>
+        <template>
+             1. 3billion tons of food is wasted each year.
+        2.	Wasted food amounts to over $1trillion of loss and wastage annually.
+3.	If all the food wasted was made into a country, it would be the third largest carbon dioxide producer in the world, surpassing the carbon dioxide produced by countries such as India and Russia. A total of 3.3billion tons of carbon dioxide is produced by food waste.
+
+4.	The average European and North American wastes more than his or her body weight in food each year, throwing away 100kg of food.
+
+        </template>
+    </category>
+    <category>
+        <pattern>BYE</pattern>
+        <template>
+             Goodbye Bob
+        </template>
+    </category>
+    <category>
+        <pattern>GOODBYE</pattern>
+        <template>
+             Bye Bob
+        </template>
+    </category>
+    <category>
+        <pattern>BYE BYE</pattern>
+        <template>
+             See you later Bob!
+        </template>
+    </category>
+
+</aiml>
